@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there!👋
+### I'm Dipika Chaudhary.
 
-<!--
-**riyooo13/riyooo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate computer engineering student. I'm passionate about exploring the intersections of technology, web development, and robotics. I’m driven by a strong desire to continuously learn and explore new technologies, and I thrive on solving challenges that push my skills further. 
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,nodejs,arduino,python"/>
+  </a>
+</p>
+
+### Github Stats
+![](https://github-readme-stats.vercel.app/api?username=riyooo13&show_icons=true&theme=radical)
