@@ -1,5 +1,5 @@
-## Hi there!👋
-### I'm Dipika Chaudhary.
+# Hi there!👋
+## I'm Dipika Chaudhary.
 
 I am an undergraduate computer engineering student. I'm passionate about exploring the intersections of technology, web development, and robotics. I’m driven by a strong desire to continuously learn and explore new technologies, and I thrive on solving challenges that push my skills further. 
 
