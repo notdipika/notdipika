@@ -21,4 +21,4 @@ I am an undergraduate computer engineering student. I'm passionate about explori
   
 
 ### Github Stats
-![](https://github-readme-stats.vercel.app/api?username=riyooo13&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=notdipika&show_icons=true&theme=radical)
