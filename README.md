@@ -16,7 +16,6 @@ I am an undergraduate computer engineering student. I'm passionate about explori
     <a href="https://facebook.com/not.dipika" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="not.dipika" height="47" width="47" /></a>
     <a href="https://instagram.com/not.dipika/">
     <img src="https://skillicons.dev/icons?i=instagram" />
-<a href="https://instagram.com/pyakurel.suwarna" target="_blank">
     <a href="https://linkedin.com/in/notdipika/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   
